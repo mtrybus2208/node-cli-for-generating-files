@@ -1,0 +1,13 @@
+@import '../helpers/mixins';
+
+.[KEBAB_DATA] {
+  $block: &;
+
+  &__block {
+      
+  }
+  
+  &__modifier {
+
+  }
+}
